@@ -1,0 +1,1 @@
+<button onclick="location.href='<?php echo base_url().'index.php/GetInformation/clickAdd/'.$title;?>'">新增</button>
